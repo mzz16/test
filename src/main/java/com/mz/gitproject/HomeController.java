@@ -9,7 +9,7 @@ public class HomeController {
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home() {
-		
+		// 브랜치 1
 		return "NewFile";
 	}
 	

@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-ㅋㅋㅋㅋㅋㅋ 이거도
+ㅋㅋㅋㅋㅋㅋ 이거도 브랜치에서 쓴거 커밋
 </body>
 </html>
